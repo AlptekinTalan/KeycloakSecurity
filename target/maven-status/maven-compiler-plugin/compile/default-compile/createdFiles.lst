@@ -1,0 +1,6 @@
+com\buzzybrains\controller\UserController.class
+com\buzzybrains\controller\KeycloakController.class
+com\buzzybrains\model\UserDTO.class
+com\buzzybrains\model\UserCredentials.class
+com\buzzybrains\KeycloakSecurityApplication.class
+com\buzzybrains\services\KeyCloakService.class
